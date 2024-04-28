@@ -42,7 +42,7 @@ function Projects() {
     liveLink="https://rest-country-api-pink-five.vercel.app/"/>
 
 
-    <ProjectCard title="Product Feedback"  description="A CRUD web app where you can Post/Edit/Delete feedbacks wich saves to local storage" toolOne="React" toolTwo="Redux" toolThree="Styled Components" imgURL="/assets/product.png"
+    <ProjectCard title="Product Feedback"  description="A CRUD web app where you can Post/Edit/Delete feedbacks wich saves to local storage" toolOne="React" toolTwo="Redux" toolThree="Styled Components" imgURL="/assets/Product.webp"
     repolink="https://github.com/AmirezaMahmoudi/product-feedback"
     liveLink="https://product-feedback-beta.vercel.app/"/>
 
